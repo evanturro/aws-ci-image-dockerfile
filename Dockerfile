@@ -1,4 +1,4 @@
-FROM circleci/python:3.8
+FROM circleci/python:2.7
 
 SHELL ["/bin/bash", "-c"]
 
